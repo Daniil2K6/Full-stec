@@ -1,0 +1,5 @@
+node_modules/
+практика 1-6/node_modules/
+*.log
+.DS_Store
+/.vscode/
